@@ -1,2 +1,2 @@
 # Projetos-Python
-Armazenamento de Projetos em Python
+Armazenamento de Exercícios em Python
