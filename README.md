@@ -1,2 +1,2 @@
-# Exercicios
-Armazenamento de Exercícios em Python
+# Exercicios e Projetos
+Armazenamento de Exercícios e Projetos em Python
